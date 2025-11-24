@@ -1,5 +1,3 @@
-# geospatial-analysis-overpass-geopandas
-
 # Overpass Turbo & GeoPandas
 Integrating Overpass Turbo & Geopandas can be useful for geospatial analysis, also can be extended for feature engineering task & implemented in many domains.
 This example picks Surabaya, Indonesia (lat, lon:  -7.25, 112.768) & with EPSG:4326 coordinate system.
